@@ -1,0 +1,19 @@
+h2 {
+    color:#CBB279;
+    font-weight: 400;
+    font-size: 1em;
+}
+a {
+    color:#CBB279;
+ text-decoration: none;
+}
+body {
+    background-color: rgb(115, 115, 115);
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    color: #537188;
+    text-shadow: 2px 3px #ffffff;
+    text-decoration-color: #537188;
+}
